@@ -84,4 +84,10 @@ Technical documentation available **[here](https://Time2Cry.pythonanywhere.com)*
 
 ### ⚡ *"Building secure software does not mean making it impossible to break."*
 
+<p align="center">
+  <img src="cat.gif" width="350" alt="Cat GIF">
+</p>
+
 </div>
+
+
