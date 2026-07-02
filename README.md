@@ -64,7 +64,7 @@ Security assessment and network analysis toolkit available **[here](https://gith
 ### 💥 Exploit Development
 Collection of exploit development projects available **[here](https://github.com/Underscore0000/UpdateExploit-2026)**.
 
-### 🦠 My trojan documentation
+### 🦠 My ransomware documentation
 Technical documentation available **[here](https://Time2Cry.pythonanywhere.com)**.
 
 ---
